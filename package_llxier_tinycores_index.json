@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "attiny13",
-      "maintainer": "Sam Washburn",
+      "maintainer": "Lefteris Alexantonakis",
       "websiteURL": "https://github.com/samw3/attiny13",
       "email": "",
       "help": {

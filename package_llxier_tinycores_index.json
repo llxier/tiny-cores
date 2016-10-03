@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "attiny13",
+      "maintainer": "Sam Washburn",
+      "websiteURL": "https://github.com/samw3/attiny13",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "attiny13",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "attiny",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/llxier/tiny-cores/blob/master/attiny13.zip?raw=true",
+          "archiveFileName": "attiny13.zip",
+          "checksum": "SHA-256:c2e4cc1f25f0c783dcd0b5ba7445c0f7d5eb8093ed191114a7bbc17afab587cb",
+          "size": "2711",
+          "boards": [
+            {"name": "ATtiny13"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}

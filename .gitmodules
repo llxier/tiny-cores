@@ -1,0 +1,6 @@
+[submodule "external/attiny"]
+	path = external/attiny
+	url = https://github.com/damellis/attiny.git
+[submodule "external/attiny13"]
+	path = external/attiny13
+	url = https://github.com/samw3/attiny13.git
